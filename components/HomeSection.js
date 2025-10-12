@@ -90,7 +90,7 @@ export default function HomeSection() {
           </a>
           <a
             href="https://linkedin.com/in/ellokananda"
-            download
+
             className="bg-gradient-to-r from-[#00b4d8] to-[#90e0ef] text-white px-6 py-3 rounded-lg font-medium hover:opacity-90 transition transform hover:scale-105 duration-300"
           >
             Get In Touch
