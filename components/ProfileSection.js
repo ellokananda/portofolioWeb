@@ -97,7 +97,7 @@ I am passionate about crafting efficient digital solutions through clean, mainta
     rel="noopener noreferrer"
     className="inline-block bg-gradient-to-r from-[#0077b6] to-[#00b4d8] text-white px-6 py-3 rounded-lg font-medium hover:opacity-90 transition transform hover:scale-105 duration-300"
   >
-    Let's Connect 
+    Let&apos;s Connect 
   </a>
 
   {/* Tombol Download CV */}
