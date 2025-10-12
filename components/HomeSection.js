@@ -73,7 +73,7 @@ export default function HomeSection() {
       {/* Konten utama */}
       <div className="relative z-10 max-w-3xl mx-auto px-6">
         <h1 className="text-4xl md:text-6xl font-bold mb-4">
-  Hi, I’m <span className="text-[#00b4d8]">Ellok Ananda</span> 👋
+  Hi, I&apos;m <span className="text-[#00b4d8]">Ellok Ananda</span> 👋
 </h1>
 
         <p className="text-lg md:text-xl text-gray-800 leading-relaxed mb-8">
