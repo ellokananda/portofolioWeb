@@ -1,8 +1,10 @@
+
 export default function Footer() {
   return (
-    <footer className="text-center py-6 border-t mt-10 text-sm text-gray-500">
-      © {new Date().getFullYear()} Ellok Ananda. All rights reserved.
+    <footer className="border-t mt-12 py-6 bg-white">
+      <div className="max-w-6xl mx-auto px-6 text-center text-sm text-gray-600">
+        © {new Date().getFullYear()} Ellok Ananda. All rights reserved.
+      </div>
     </footer>
   );
 }
-

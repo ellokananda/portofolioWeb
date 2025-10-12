@@ -1,17 +1,23 @@
 import Navbar from "@/components/Navbar";
+import ProjectsSection from "../components/ProjectsSection";
+
+import HomeSection from "@/components/HomeSection";
+import ProfileSection from "@/components/ProfileSection";
+import ContactSection from "@/components/ContactSection";
+import SkillSection from "../components/SkillSection";
 import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
-    <main>
+    <main className="bg-gradient-to-b from-white via-[#90e0ef] to-white">
       <Navbar />
-      <section className="text-center py-20">
-        <h1 className="text-4xl font-bold mb-4">Hi, I’m Ellok 👋</h1>
-        <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-          I’m a backend & fullstack developer passionate about building scalable web apps using Laravel, React, and Next.js.
-        </p>
-      </section>
-      <Footer />
+      <HomeSection />
+      <ProfileSection />
+      <ProjectsSection />
+      <SkillSection />
+      <ContactSection />
+
+    <Footer />
     </main>
   );
 }

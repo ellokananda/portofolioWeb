@@ -34,7 +34,6 @@ export default function Projects() {
           ))}
         </div>
       </section>
-      <Footer />
     </main>
   );
 }
