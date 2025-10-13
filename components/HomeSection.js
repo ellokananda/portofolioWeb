@@ -78,7 +78,7 @@ export default function HomeSection() {
 
         <p className="text-lg md:text-xl text-gray-800 leading-relaxed mb-8">
           A junior web developer passionate about crafting
-          modern, efficient web applications.
+          modern and efficient web applications.
         </p>
 
         <div className="flex justify-center gap-4">
